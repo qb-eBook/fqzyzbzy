@@ -1,3 +1,6 @@
+/* 使用 Sigil 编辑 Epub 时所使用的到的样式文件 */
+/* https://gist.github.com/tuzz/3331384 */
+
 body {
   font-family: Helvetica, arial, sans-serif;
   font-size: 14px;
@@ -421,6 +424,8 @@ pre tt {
   background-color: transparent;
   border: none;
 }
+
+/* 首行缩进，自己加的 */
 
 p {
   text-indent: 2em;
