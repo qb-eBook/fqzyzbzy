@@ -6,6 +6,8 @@
 
 本人的整理是在 Epub 版本的基础上，参照扫描版的 PDF 将本书整理出了 Markdown 格式，后使用 Typora 导出为文字版的 PDF 格式。使用 Sigil 制作出了 Epub 版本。
 
+在线阅读地址：https://qb-ebook.github.io/fqzyzbzy/
+
 精力有限，难免有错误和疏漏，如有发现欢迎提交 issue 或 PR！
 
 ### 其他下载地址
