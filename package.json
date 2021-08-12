@@ -1,0 +1,26 @@
+{
+  "name": "fqzyzbzy",
+  "version": "1.0.0",
+  "description": "这是一本好书，可惜网上关于这本书的电子资源太辣鸡了，无奈之下，本人进行了粗略的整理。",
+  "main": "index.js",
+  "dependencies": {
+    "vuepress": "^1.8.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maqingbo/fqzyzbzy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maqingbo/fqzyzbzy/issues"
+  },
+  "homepage": "https://github.com/maqingbo/fqzyzbzy#readme"
+}
