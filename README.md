@@ -11,7 +11,7 @@
 ### 其他下载地址
 
 - 百度云盘：https://pan.baidu.com/s/14jxE_j0D4St17sFTIuBuPw 提取码: gkmv
-- zLibiary：已上传，还没通过审核。可尝试搜索“父权制与资本主义（个人精校版）”。
+- zLibiary：https://zh.hk1lib.org/book/16898397/ee44c8。
 
 ### 相关文档
 
