@@ -4,7 +4,7 @@ module.exports = {
   title: '父权制与资本主义',
   description: '父权制与资本主义，电子书，上野千鹤子',
   head: [
-    ['link', { rel: 'icon', href: '/icon.png' }]
+    ['link', { rel: 'icon', href: '/images/icon.png' }]
   ],
   themeConfig: {
     // displayAllHeaders: true,
