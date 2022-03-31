@@ -13,7 +13,7 @@
 ### 其他下载地址
 
 - 百度云盘：https://pan.baidu.com/s/14jxE_j0D4St17sFTIuBuPw 提取码: gkmv
-- zLibiary：https://zh.hk1lib.org/book/16898397/ee44c8。
+- zLibiary：https://zh.hk1lib.org/book/16898397/ee44c8
 
 ### 相关文档
 
